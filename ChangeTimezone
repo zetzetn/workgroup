@@ -1,0 +1,5 @@
+$ su -　　 //rootユーザーでログイン
+Password:  //パスワード入力
+# mv /etc/localtime /etc/localtime.bk  //localtimeファイルの名前変更する
+# ln -s /usr/share/zoneinfo/Asia/Tokyo /etc/localtime  //目的の地域のファイルのシンボリックリンクを作成
+# date  //時刻表示
