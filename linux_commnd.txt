@@ -1,4 +1,4 @@
-
+■■■■■■基本コマンド■■■■■■
 
 
 ■rmdir
@@ -9,8 +9,40 @@
 
 ■which
 
+■■■■■■ショートカット■■■■■■
+・Tab
+・ctrl+a,ctrl+e
+・ctrl+b,ctrl+f
+・ctrl+h,BackSpace
+・ctrl+d
+・ctrl+u
+・ctrl+k
+・ctrl+w
+・ctrl+l
+・ctrl+s,ctrl+q
+・ctrl+r
+・!!
+・!〇〇
 
-
-
-
-
+■■■■■■viコマンド■■■■■■
+・o
+・esc
+・:wq
+・:q!
+・:w
+・dd
+・d10d
+・x
+・u
+・ctrl+r
+・{}
+・yy
+・y10y
+・p
+・G
+・gg
+・100G
+・/:
+・?:
+・
+・
