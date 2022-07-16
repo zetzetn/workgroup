@@ -68,6 +68,8 @@
 
 ・su
 
-■■■■■■vimコマンド■■■■■■
+■■■■■■vimコマンド■■■■■
+root権限
+yum vim
 ・:vertical diffsplit
 ・
