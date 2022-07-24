@@ -1,0 +1,21 @@
+{
+ "Id": "S3BucketPolicy",
+ "Version": "2012-10-17",
+ "Statement": [
+  {
+   "Sid": "List",
+   "Action": [
+    "s3:List*"
+   ],
+   "Effect": "Allow",
+   "Resource": [
+    "arn:aws:s3:::bucketname/*"
+   ],
+   "Principal": {
+    "AWS": [
+     "arn:aws:iam::111111111111:user/application"
+   ]
+  }
+ }
+ ]
+}
