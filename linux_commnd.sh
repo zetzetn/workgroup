@@ -72,4 +72,9 @@
 root権限
 yum vim
 ・:vertical diffsplit
-・
+
+
+
+■■■■■■vimコマンド■■■■■
+
+
